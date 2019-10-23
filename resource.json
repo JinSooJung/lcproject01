@@ -1,0 +1,29 @@
+{
+    "titulos":
+        [
+            {"welcome":"Bem Vindo" },
+            {"contato":"Contacts" }
+        ],
+
+    "endereco":
+        [
+            {"local1":"1313 Rua Gumercindo Saraiva", "local2": "Jardim Europa, São Paulo/SP" },
+            {"email1":"info@letscode.com"},
+            {"email2":"comercial@letscode.com" },
+            {"telefone1":"+ 55 11 9 4141 1212" },
+            {"telefone2":"+ 55 11 4242 1313" }
+        ],
+
+    "menu":
+        [
+            {"inicio" : "início"},
+            {"sobre":"sobre" },
+            {"experiencia":"experiência" },
+            {"educacao":"educação" },
+            {"servicos":"serviços" },
+            {"portfolio":"portfólio" },
+            {"blog":"blog" },
+            {"contato":"contato" }
+        ]
+
+}
